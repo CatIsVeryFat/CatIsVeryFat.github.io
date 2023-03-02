@@ -14,7 +14,7 @@
 }
 
 .home-main-section .fat-image {
-    background-image: url(Images/kursa.jpeg);
+    background-image: url(/Images/kursa.jpeg);
     flex-grow: 1;
     max-height: 120vh;
     min-width: 30vw;
