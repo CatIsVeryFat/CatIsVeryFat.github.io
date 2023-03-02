@@ -14,7 +14,7 @@
 }
 
 .home-main-section .fat-image {
-    background-image: url(images/kursa.jpeg);
+    background-image: url(Images/kursa.jpeg);
     flex-grow: 1;
     max-height: 120vh;
     min-width: 30vw;
@@ -87,7 +87,7 @@
 -------------------------------------------
 
 .home-main-section2 .fat-image2 {
-    background-image: url(/images/koala.jpeg);
+    background-image: url(/Images/koala.jpeg);
     flex-grow: 1;
     max-height: 160vh;
     min-width: 150vw;
