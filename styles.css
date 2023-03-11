@@ -180,7 +180,7 @@ h2:after {
 }
   
 .image-gallery > li {
-    flex-basis: 300px; /* width: 350px; */
+    flex-basis: 400px; /* width: 350px; */
 }
   
 .image-gallery li img {
